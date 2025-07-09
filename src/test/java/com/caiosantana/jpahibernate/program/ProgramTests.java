@@ -1,10 +1,10 @@
-package com.caiosantana.jpahibernate;
+package com.caiosantana.jpahibernate.program;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JpahibernateApplicationTests {
+class ProgramTests {
 
 	@Test
 	void contextLoads() {

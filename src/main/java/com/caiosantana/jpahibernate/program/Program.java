@@ -1,13 +1,13 @@
-package com.caiosantana.jpahibernate;
+package com.caiosantana.jpahibernate.program;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JpahibernateApplication {
+public class Program {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JpahibernateApplication.class, args);
+		SpringApplication.run(Program.class, args);
 	}
 
 }
